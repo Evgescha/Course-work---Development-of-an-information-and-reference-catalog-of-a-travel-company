@@ -1,0 +1,15 @@
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\bin\Debug\Database.accdb
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\bin\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.exe.config
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\bin\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.exe
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\bin\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.pdb
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework. GSTU. Information and reference directory of a travel company.csprojAssemblyReference.cache
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.Client.resources
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.Main.resources
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.Properties.Resources.resources
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework. GSTU. Information and reference directory of a travel company.csproj.GenerateResource.cache
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework. GSTU. Information and reference directory of a travel company.csproj.CoreCompileInputs.cache
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.exe
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.pdb
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.Hotel.resources
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.TourProduct.resources
+D:\Program Files\visual-studio-workspace\Coursework. GSTU. Information and reference directory of a travel company\obj\Debug\Coursework.GSTU.Information_and_reference_directory_of_a_travel_company.Transport.resources
